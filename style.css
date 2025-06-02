@@ -1,0 +1,23 @@
+body{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: gray;
+}
+
+header h1{
+    font-family: sans-serif;
+}
+
+section {
+    background-color: dodgerblue;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+section a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
