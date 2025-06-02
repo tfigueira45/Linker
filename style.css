@@ -4,6 +4,7 @@ body{
     align-items: center;
     flex-direction: column;
     color: gray;
+    background-color: rgb(41, 40, 40);
 }
 
 header h1{
